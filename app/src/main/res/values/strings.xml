@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">FirebaseCloudMessaging</string>
+    <string-array name="buttons">
+        <item>Button 1</item>
+        <item>Button 2</item>
+        <item>Button 3</item>
+        <item>Button 4</item>
+        <item>Button 5</item>
+        <item>Button 6</item>
+        <item>Button 7</item>
+        <item>Button 8</item>
+        <item>Button 9</item>
+        <item>Button 10</item>
+    </string-array>
 </resources>
